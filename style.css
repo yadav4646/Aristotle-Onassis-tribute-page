@@ -1,0 +1,21 @@
+.About {
+  background: rgb(243, 241, 241);
+}
+
+.container {
+  padding-right: 600px;
+  padding-left: 600px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.img-circle {
+    border-radius: 50%;
+    padding-top: 27px;
+}
+
+.thumbnail-about{
+    background-color: #ddd;
+    padding: 9px;
+    color: #333;
+}
